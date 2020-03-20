@@ -1,4 +1,4 @@
 # alfabank-resolusi
--Ini adalah repository yang akan saya gunakan untuk menulis harapan harapan saya
--Pengen kerja dan bertahan di IT
+-Tempat ini adalah untuk belajar github 
 
+![Menambah Gambar] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
