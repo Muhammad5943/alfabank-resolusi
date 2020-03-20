@@ -1,2 +1,2 @@
 # alfabank-resolusi
-ini adalah repositoryyang akan saya gunakan untuk menulis harapan harapan saya
+ini adalah repository yang akan saya gunakan untuk menulis harapan harapan saya
